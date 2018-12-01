@@ -1,0 +1,3 @@
+- PCB design and layout
+- Parts layout
+- Case design 
