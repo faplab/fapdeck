@@ -1,3 +1,17 @@
 - PCB design and layout
+  - BMS
+  - USB hub
+  - MCU?
+  - RPI interface
+  - QMK integration
+    - USB
+    - ATMEGA32U4
+  - USB hub switch
+  - DB25 connector
+    - MIPI DSI
+    - Vin
+    - Audio?
+    - UART?
+    - I2C?
 - Parts layout
 - Case design 
