@@ -55,4 +55,8 @@ Text HLabel 7500 3400 2    50   Output ~ 0
 MCUUSBP
 Text HLabel 7500 3500 2    50   Output ~ 0
 MCUUSBN
+Text HLabel 7500 5300 2    50   Output ~ 0
+KeyboardP
+Text HLabel 7500 5400 2    50   Output ~ 0
+KeyboardN
 $EndSCHEMATC
