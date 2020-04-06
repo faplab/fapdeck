@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS3USB221A
+D USB mux/demux
+K USB, mux, demux, switch
+$ENDCMP
+#
+#End Doc Library
