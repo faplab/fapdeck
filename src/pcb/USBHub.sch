@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Generic:USB-A CN?
+L generic:USB-A CN?
 U 1 1 5C1FADC7
 P 7600 3800
 F 0 "CN?" H 7878 3801 50  0000 L CNN
@@ -26,7 +26,7 @@ F 3 "" H 7600 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Generic:USB-A CN?
+L generic:USB-A CN?
 U 1 1 5C1FAE2A
 P 7600 4300
 F 0 "CN?" H 7878 4301 50  0000 L CNN
@@ -37,7 +37,7 @@ F 3 "" H 7600 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Generic:USB-A CN?
+L generic:USB-A CN?
 U 1 1 5C1FAE58
 P 7600 4800
 F 0 "CN?" H 7878 4801 50  0000 L CNN

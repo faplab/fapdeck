@@ -50,7 +50,7 @@ Wire Wire Line
 Wire Wire Line
 	6300 4500 6200 4500
 $Comp
-L Generic:GND GND?
+L generic:GND GND?
 U 1 1 5CA87909
 P 5800 4900
 F 0 "GND?" H 5950 4950 50  0001 C CNN
@@ -61,7 +61,7 @@ F 3 "" H 5800 4900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Generic:GND GND?
+L generic:GND GND?
 U 1 1 5CA8791D
 P 6300 4900
 F 0 "GND?" H 6450 4950 50  0001 C CNN

@@ -134,7 +134,7 @@ Wire Wire Line
 Wire Wire Line
 	6200 3000 6600 3000
 $Comp
-L Generic:USB-Micro CN?
+L generic:USB-Micro CN?
 U 1 1 5C292499
 P 3200 1800
 AR Path="/5C1FAD08/5C292499" Ref="CN?"  Part="1" 
@@ -147,7 +147,7 @@ F 3 "" H 3200 1800 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Generic:USB-Micro CN?
+L generic:USB-Micro CN?
 U 1 1 5C2924A0
 P 3200 2800
 AR Path="/5C1FAD08/5C2924A0" Ref="CN?"  Part="1" 
@@ -203,7 +203,7 @@ Wire Wire Line
 	4000 3700 4000 2700
 Connection ~ 4000 2700
 $Comp
-L Generic:GND GND?
+L generic:GND GND?
 U 1 1 5CA87BF8
 P 3400 2200
 F 0 "GND?" H 3550 2250 50  0001 C CNN
@@ -218,7 +218,7 @@ Wire Wire Line
 Wire Wire Line
 	3400 2100 3400 2200
 $Comp
-L Generic:GND GND?
+L generic:GND GND?
 U 1 1 5CA888D8
 P 3400 3200
 F 0 "GND?" H 3550 3250 50  0001 C CNN
