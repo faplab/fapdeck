@@ -1,6 +1,7 @@
 #kicad
 src/pcb/output
 src/pcb/*.bak
+src/pcb/*.bck
 
 #vim backup
 **/*.swp
